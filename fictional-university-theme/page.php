@@ -49,7 +49,7 @@
             ?>
           </ul>
         </div>
-      <?php }z
+      <?php }
     ?>
 
     <div class="generic-content">
@@ -65,5 +65,4 @@
   <?php }
 
   get_footer();
-  pta
 ?>
