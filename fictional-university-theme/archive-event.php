@@ -32,7 +32,11 @@ get_header(); ?>
     </div>
   <?php }
   echo paginate_links();
-?>
+  ?>
+  <hr class="section-break">
+  <p>
+  Find out about past events. <a href="<?php echo site_url('/past-events'); ?>" class=""> View past events.</a>
+  </p>
 </div>
 
 <?php get_footer();
